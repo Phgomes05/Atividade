@@ -7,8 +7,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `4`
+- Data: `24/09/2026`
 
 ## Preenchimento
 
