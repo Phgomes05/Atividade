@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `Análise e desenvolvimento de sistemas - Design Profissional`
 - Professor ou orientador: `Isabella Luiza dos Santos Souza`
 - Grupo: ``
-- Integrantes: `Clara Puerta Lopes da Purificação - Pablo Henrique Silva Gomes - Ricardo Oliveira da Silva - Ricardo Nalber - Ryan `
+- Integrantes: `Clara Puerta Lopes da Purificação - Pablo Henrique Silva Gomes - Ricardo Oliveira da Silva - Ricardo Nalber`
 - Data de início: `24/09/2026`
 
 
