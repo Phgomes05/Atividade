@@ -14,33 +14,33 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`Tecnologia da Informação, inclusão digital e capacitação profissional.`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`O desenvolvimento de plataformas digitais de capacitação profissional como instrumento de inclusão digital e empregabilidade de pessoas em situação de vulnerabilidade social.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `Tecnologia da Informação e inclusão digital.`
+- Objeto estudado: `Plataformas digitais de capacitação profissional.`
+- Contexto ou aplicação: `Capacitação, educação digital e preparação para o mercado de trabalho de pessoas em situação de vulnerabilidade social.`
+- Aspecto que será analisado: `Como plataformas digitais podem contribuir para o desenvolvimento de competências profissionais, inclusão digital e ampliação das oportunidades de empregabilidade.`
+- O que ficará fora do estudo: `Desenvolvimento técnico de uma plataforma específica, programação do sistema, análise financeira de uma plataforma e realização de experimentos com usuários.`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`A transformação digital modificou a forma como as pessoas estudam, trabalham e acessam oportunidades. Entretanto, parte da população ainda enfrenta dificuldades relacionadas ao acesso à internet, equipamentos tecnológicos e conhecimentos necessários para utilizar ferramentas digitais. O artigo-base destaca que a inclusão digital envolve não apenas possuir dispositivos, mas também ter acesso ao conhecimento e à capacitação para utilizar a tecnologia de maneira produtiva.`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Produto da etapa
 
-Tema delimitado e justificativa.
+O desenvolvimento de plataformas digitais de capacitação profissional como instrumento de inclusão digital e empregabilidade de pessoas em situação de vulnerabilidade social.
 
 ## Checklist
 
