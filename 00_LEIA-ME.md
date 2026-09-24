@@ -1,4 +1,4 @@
-# Templates para elaboração de artigo de revisão bibliográfica
+/# Templates para elaboração de artigo de revisão bibliográfica
 
 Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas. Substitua todos os campos entre colchetes pelas informações do grupo.
 
@@ -15,12 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
-
+- Curso e disciplina: `Análise e desenvolvimento de sistemas - Design Profissional`
+- Professor ou orientador: `Isabella Luiza dos Santos Souza`
+- Grupo: ``
+- Integrantes: `Clara Puerta Lopes da Purificação - Pablo Henrique Silva Gomes - Ricardo Oliveira da Silva - Ricardo Nalber - Ryan `
+- Data de início: `24/09/2026`
 
 
 ## Regra de entrega
