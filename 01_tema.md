@@ -54,4 +54,7 @@ O desenvolvimento de plataformas digitais de capacitação profissional como ins
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Clara Puerta Lopes da Purificação` | `Definição e delimitação do tema e contribuição para a pesquisa bibliográfica.` |
+| `Pablo Henrique Silva Gomes` | `Definição do recorte da pesquisa e relação entre inclusão digital, capacitação e empregabilidade.` |
+| `Ricardo Oliveira da Silva` | `Levantamento e análise de informações relacionadas ao tema.` |
+| `Ricardo Nalber` | `Apoio na organização e revisão das informações da etapa.` |
