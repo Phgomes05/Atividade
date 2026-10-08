@@ -26,14 +26,17 @@ Pergunta de pesquisa aprovada.
 
 ## Checklist
 
-- [ ] Está escrita em forma de pergunta.
-- [ ] É clara e objetiva.
-- [ ] Está alinhada ao tema.
-- [ ] Pode ser respondida por revisão bibliográfica.
-- [ ] Não exige experimento que não será realizado.
+- [x] Está escrita em forma de pergunta.
+- [x] É clara e objetiva.
+- [x] Está alinhada ao tema.
+- [x] Pode ser respondida por revisão bibliográfica.
+- [x] Não exige experimento que não será realizado.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Clara Puerta Lopes da Purificação` | `Formulação e revisão da pergunta de pesquisa.` |
+| `Pablo Henrique Silva Gomes` | `Análise da relação entre inclusão digital, capacitação profissional e empregabilidade.` |
+| `Ricardo Oliveira da Silva` | `Contribuição na definição do contexto e recorte da pesquisa.` |
+| `Ricardo Nalber` | `Revisão da clareza e alinhamento do problema com o tema.` |
